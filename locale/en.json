@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "GitLab issues kanban",
+    "description": "Adds a GitLab issues kanban to the sidebar, backed by the glab CLI. Pick a project, then work its issue board as columns: drag cards between label columns to change status, search and filter, create issues, and open a card to read its Markdown description, attachment links, comments and activity, comment, close or reopen, or open it in GitLab. The agent can do the same through the glab_kanban tool. Uses your existing glab login; no token is stored by the plugin.",
+    "detail": "docs/DETAIL.md"
+  }
+}

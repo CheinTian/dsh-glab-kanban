@@ -1,0 +1,6 @@
+# Bundle patch: the row loads this package's root entry as the Host half.
+# The `dsh.client` declaration in package.json makes the Web app load
+# ./client.js as the browser half and mount it as a sidebar panel.
+- insert:
+    - id: glab-kanban
+      name: dsh-glab-kanban

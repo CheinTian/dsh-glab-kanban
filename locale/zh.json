@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "GitLab Issue 看板",
+    "description": "在侧边栏新增 GitLab Issue 看板，基于 glab 命令行。选择项目后，以其 Issue 看板为列：拖拽卡片在标签列之间切换状态，搜索与筛选，新建 Issue；点击卡片可阅读 Markdown 描述、附件链接、评论与动态，并可评论、关闭/重开或在 GitLab 中打开。智能体可通过 glab_kanban 工具执行同样的操作。直接使用你现有的 glab 登录，插件不会保存任何令牌。",
+    "detail": "docs/DETAIL.zh.md"
+  }
+}
